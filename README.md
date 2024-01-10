@@ -33,14 +33,8 @@ From Rawalpindi, Pakistan, I embarked on a quest in tech with a BS in Computer S
 - 💹 Adept in financial markets, focusing on cryptocurrency and stock trading.
 - 📈 Crypto Trader with a passion for conducting fundamental analysis of companies and cryptocurrencies.
 
-## GitHub Stats
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alijawad07&show_icons=true)
-
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alijawad07&layout=compact)
-
 ---
 
 Join me in the journey of innovation and technological exploration!
-
+![Python](https://raw.githubusercontent.com/aliajwad07/alijawad07/main/icons/python-color.svg)
 Ali Jawad
