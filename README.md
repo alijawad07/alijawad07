@@ -31,7 +31,7 @@ From Rawalpindi, Pakistan, I embarked on a quest in tech with a BS in Computer S
 ## Personal Interests
 - 🏈 Football enthusiast with a keen interest in the sport's strategic nuances.
 - 💹 Adept in financial markets, focusing on cryptocurrency and stock trading.
-- 📈 Crypto Trader with a passion for conducting fundamental analysis of companies and cryptocurrencies.
+- ![Crypto](https://raw.githubusercontent.com/alijawad07/alijawad07/main/icons/bitcoinsv-color.svg) Crypto Trader with a passion for conducting fundamental analysis of companies and cryptocurrencies.
 
 ---
 
