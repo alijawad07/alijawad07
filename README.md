@@ -1,16 +1,46 @@
-### Hi there 👋
+# Hi there 👋, I'm Ali Jawad
 
-<!--
-**alijawad07/alijawad07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thank you for visiting my GitHub profile! Here's a snapshot of my professional persona:
 
-Here are some ideas to get you started:
+- 🔭 40% Computer Vision Engineer: Expert in Classification, Object Detection, and Instance Segmentation.
+- 🌱 30% Machine Learning Enthusiast: Passionate about Neural Networks and Transformative Models.
+- ⚡ 20% Tech Innovator: Always on the edge of the latest developments in AI.
+- 📚 10% Knowledge Sharer: Dedicated to disseminating insights and breakthroughs in AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## A Bit About Myself
+From Rawalpindi, Pakistan, I embarked on a quest in tech with a BS in Computer Science from Air University. My career has been a series of roles refining my craft in the nuanced art of Computer Vision and Machine Learning.
+
+## What I'm Working On
+- Crafting cutting-edge text detection with Transformer-based OCRs for Dtexddc, complemented by serverless AWS SageMaker deployments.
+- Enhancing machine learning pipelines at Darvis Inc, significantly reducing annotation efforts.
+- Keen to collaborate on vision-centric projects. If you're brewing ideas that need vision, let's connect!
+
+## Tools of the Trade
+- 🛠️ **Languages & Libraries**: Skilled in Python (NumPy, Pandas, Scikit-learn, OpenCV, Pytorch), C++
+- 🚀 **Frameworks & Tools**: Proficient with NVIDIA Deep Stream, AWS, Docker, Jenkins, Jira
+- 📈 **Project Management**: Experienced in leading teams, orchestrating projects, and ensuring cross-departmental synergy.
+
+## Select Projects
+- **License Plate Recognition System**: A real-time OCR-based system for vehicle and license plate recognition, built using Python, OpenCV, and Yolov8.
+- **Brain Tumor Detection**: Advanced medical imaging application using YOLOv8 and SAM algorithms in Python.
+
+## Let's Connect
+- 📧 Email: [alijawadnaqvi7@gmail.com](mailto:alijawadnaqvi7@gmail.com)
+- 💼 LinkedIn: [Ali Jawad](https://www.linkedin.com/in/alijawad07)
+
+## Personal Interests
+- 🏈 Football enthusiast with a keen interest in the sport's strategic nuances.
+- 💹 Adept in financial markets, focusing on cryptocurrency and stock trading.
+- 📈 Crypto Trader with a passion for conducting fundamental analysis of companies and cryptocurrencies.
+
+## GitHub Stats
+![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alijawad07&show_icons=true)
+
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alijawad07&layout=compact)
+
+---
+
+Join me in the journey of innovation and technological exploration!
+
+Ali Jawad
