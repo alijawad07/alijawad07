@@ -36,5 +36,5 @@ From Rawalpindi, Pakistan, I embarked on a quest in tech with a BS in Computer S
 ---
 
 Join me in the journey of innovation and technological exploration!
-![Python](https://raw.githubusercontent.com/aliajwad07/alijawad07/main/icons/python-color.svg)
+![Python](https://raw.githubusercontent.com/alijawad07/alijawad07/main/icons/python-color.svg)
 Ali Jawad
